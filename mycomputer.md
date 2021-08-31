@@ -2,7 +2,7 @@
 ### Specs
 * Brand/Model - Asus Tuf Gaming Laptop, LAPTOP-DE6HPHQQ
 * Installed RAM - 16.0 GB (15.8 GB usable)
-* CPU - AMD Ryzen 7 3750H with Radeon Vega Mobile 
+* CPU - AMD Ryzen 7 3750H/Radeon Vega Mobile 
 * Operation System (OS) - Windows 10 Home
 * Ports - 1x 3.5mm Combo Audio Jack, 1x HDMI 2.0, 1x, USB 2.0 Type-A, 2x USB 3.2 Gen 1 Type-A
 * Storage - 1TB 5400RPM 2.5" SATA FireCuda SSHD

@@ -9,5 +9,5 @@
 * Wireless - Wi-Fi 5 (802.11ac)+Bluetooth 5.0 
 
 ### Commentary
-* I like my computer a lot, I'm grateful just to have one. This is my first laptop and I've had it for about two years, it can be a little slow at times, but it works fine.
-* If I keep too many tabs on Chrome open, or keep too many windows open, my laptop will die in an hour and a half of being fully charged. Chrome is not my laptop's default browser, so my OS just sees it as another big app to support. The laptop was made to store more than a normal Macbook Air, as it is a gaming laptop, which leads it to being loud (has fans).   
+* I like my computer a lot, I'm grateful just to have one. This is my first laptop and I've had it for about two years, it can be a little slow at times, but it works fine. I appreciate it because it allows me to kind of have an outlet (playing games and such), and still being able to get work done and be proud of that. 
+* If I keep too many tabs on Chrome open, or keep too many windows open, my laptop will die in an hour and a half of being fully charged. Chrome is not my laptop's default browser, so my OS just sees it as another big app to support. The laptop was made to store more than a normal Macbook Air, as it is a gaming laptop, which leads it to being loud (has fans that are connected with copper wind pipe).  
